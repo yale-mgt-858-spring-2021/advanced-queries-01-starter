@@ -22,7 +22,7 @@ We suggest you complete the questions in the following order
 - [ ] orders-and-shipper
 - [ ] category-product-totals
 - [ ] product-reordering
-- [ ] highest-fright-charges
+- [ ] highest-freight-charges
 - [ ] customers-without-orders
 - [ ] vip-customers
 - [ ] sales-contest
