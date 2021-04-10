@@ -1,6 +1,15 @@
 # 
 
-woot
+OK! 👏👏👏
+
+This is the first of a few "advanced queries" assignments. In each of 
+these assignments there will be some warm up questions and then some
+questions that will require using JOINs, CTEs, subqueries, and similar
+methods. As ever, the teaching staff is on Slack to help you out. 😁
+
+To get started, accept
+[this GitHub Classroom invite](https://classroom.github.com/a/qjOPeKxQ)
+and then paste your repo URL [on the class website](https://www.858.mba/#meetings/sql-advanced-queries-01).
 
 
 
