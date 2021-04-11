@@ -22,3 +22,6 @@ party_date
 * Add hint on `highest-freight-charges` regarding finding the most
   recent 12mo of data.
 * Clarify `end-of-month-orders`. The "last week" means the "last seven days".
+
+## Sun Apr 11 16:08:33 EDT 2021
+* Add that `orders-to-latin-america` should be sorted by `order_id`

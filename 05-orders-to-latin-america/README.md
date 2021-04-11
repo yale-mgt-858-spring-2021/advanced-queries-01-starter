@@ -3,6 +3,7 @@ Write a query that shows the `order_id`, `customer_id`, and
 `ship_country` for the orders where the `ship_country` is in Latin
 America. That is "Brazil", "Mexico", "Argentina" or "Venezuela" in these
 data. (There are no other countries in Latin America in the data set.)
+Sort by ascending `order_id`.
 
 Your results should look like this
 
