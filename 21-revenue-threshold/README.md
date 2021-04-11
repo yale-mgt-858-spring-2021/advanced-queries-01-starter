@@ -15,3 +15,10 @@ party_date
 2020-12-02
 (1 row)
 ```
+
+## Edits
+
+### Sun Apr 11 08:53:29 EDT 2021
+* Add hint on `highest-freight-charges` regarding finding the most
+  recent 12mo of data.
+* Clarify `end-of-month-orders`. The "last week" means the "last seven days".

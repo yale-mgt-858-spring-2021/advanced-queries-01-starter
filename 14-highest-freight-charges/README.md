@@ -11,7 +11,10 @@ and so we first want to know where we're spending the most money on
 freight.
 Find the ten
 countries to which we ship that had the highest average freight charges
-in the most recent 12 months of data available.
+in the most recent 12 months of data available. (Hint: you can use
+something like
+`(SELECT MAX(order_date) - '1 YEAR'::INTERVAL FROM south_sea.orders)`
+to get the most recent 12 months of data.
 
 Your results should look as follows
 

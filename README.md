@@ -9,7 +9,7 @@ methods. As ever, the teaching staff is on Slack to help you out. 😁
 
 To get started, accept
 [this GitHub Classroom invite](https://classroom.github.com/a/qjOPeKxQ)
-and then paste your repo URL [on the class website](https://www.858.mba/#meetings/sql-advanced-queries-01).
+and then paste your repo URL [on the class website](https://www.858.mba/#assignments/advanced-queries-01).
 
 
 
