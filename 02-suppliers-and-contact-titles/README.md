@@ -1,5 +1,5 @@
 
-In the Suppliers table, show the `supplier_id`, `contact_name`, and `contact_title`
+In the `suppliers` table, show the `supplier_id`, `contact_name`, and `contact_title`
 for those `suppliers` whose `contact_title` is not "Marketing Manager".
 
 Your results should look like this

@@ -1,5 +1,5 @@
 
-We’d like to show, for each product, the associated supplie. Show the
+We’d like to show, for each product, the associated supplier. Show the
 `product_id`, `product_name`, and the `company_name` of the supplier. Sort by
 `product_id`, ascending.
 

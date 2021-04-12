@@ -1,9 +1,9 @@
 
-_💩 just got real. You're going to need a
+💩 _just got real_. You're going to need a
 [subquery](https://www.postgresql.org/docs/8.1/functions-subquery.html)
-here (see [also](https://www.postgresqltutorial.com/postgresql-subquery/
+here (see [also](https://www.postgresqltutorial.com/postgresql-subquery/)
 and the [PostgreSQL date functions and
-operators](https://www.postgresql.org/docs/9.1/functions-datetime.html))_.
+operators](https://www.postgresql.org/docs/9.1/functions-datetime.html)).
 Some of the countries we ship to have very high freight charges. This is
 indicated in the `freight` column of the `orders` table. Each order has
 its own value for `freight`. Imagine we want to save money on freight 💰💰

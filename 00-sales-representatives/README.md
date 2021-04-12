@@ -7,7 +7,9 @@ solutions are not in that book. 😜)
 We’d like to see just the `first_name`, `last_name`, and `hire_date`
 of all the employees with the title of "Sales Representative".
 
-Write a SQL statement that returns only those employees.
+Write a SQL statement that returns only those employees. (Note that 
+I will not be telling you what tables to query in this assignment
+because it should be obvious. When in doubt, ask the teaching staff.)
 
 Your results should look like this
 

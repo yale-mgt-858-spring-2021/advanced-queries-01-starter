@@ -4,6 +4,7 @@ query that shows the `order_id`, `customer_id`, and `ship_country` for the order
 where the `ship_country` is either "France" or "Belgium".
 Here's a hint. See the 
 [PostgreSQL `IN` subquery expression](https://www.postgresqltutorial.com/postgresql-in/).
+Please order by `order_id`.
 
 
 Your results should look like this
