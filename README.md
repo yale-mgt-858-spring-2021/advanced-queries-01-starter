@@ -11,6 +11,25 @@ To get started, accept
 [this GitHub Classroom invite](https://classroom.github.com/a/qjOPeKxQ)
 and then paste your repo URL [on the class website](https://www.858.mba/#assignments/advanced-queries-01).
 
+## Edits
+
+### Sun Apr 11 08:53:29 EDT 2021
+* Add hint on `highest-freight-charges` regarding finding the most
+  recent 12mo of data.
+* Clarify `end-of-month-orders`. The "last week" means the "last seven days".
+
+## Sun Apr 11 16:08:33 EDT 2021
+* Add that `orders-to-latin-america` should be sorted by `order_id`
+
+## Mon Apr 12 08:32:31 EDT 2021
+* Mention that I won't be telling you what tables to query.
+* Clarify that I don't care about uppercase vs. lowercase in the
+  `queso` problem.
+* Add that `orders-to-france-or-belgium` should be ordered by
+  `order_id`.
+* Fix typo in `products-with-suppliers`.
+* Fix markdown formatting in `highest-freight-charges`
+
 
 
 ## Suggested order
